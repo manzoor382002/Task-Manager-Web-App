@@ -21,7 +21,7 @@ The **Task Manager App** is a web-based application developed using Flask. It is
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ankita34359/TaskManagerApp.git
+   git clone https://github.com/manzoor382002/Task-Manager-Web-App.git
    cd TaskManagerApp
    ```
 
